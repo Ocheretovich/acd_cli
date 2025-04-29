@@ -173,6 +173,7 @@ Recent Changes
 
 .. |License| image:: https://img.shields.io/badge/license-GPLv2+-blue.svg
    :alt:
+   :target: https://github.com/yadayada/acd_cli/blob/master/LICENSE
 
 .. |Build| image:: https://img.shields.io/travis/yadayada/acd_cli.svg
    :alt:
